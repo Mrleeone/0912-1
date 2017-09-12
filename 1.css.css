@@ -1,0 +1,193 @@
+.demo{
+		width:100%;
+		height:40px;
+		/* background-color:pink; */
+		position:relative;
+	}
+.shouyedemo{
+		width:230px;
+		/* background-color:#9933CC; */
+		margin-left:272px;
+		color:#B0B0C8;
+		font-size:14px;
+		line-height:42px;
+	}
+span{
+		cursor:pointer;
+	}
+span:hover{
+		color:blue;
+	}
+.edition{
+		width:100%;
+		background-color:#F8F8F8;
+		position:relative;
+	}
+.box{
+		width:1040px;
+		height:370px;
+		/* background-color:#CC3399; */
+		margin:0 auto;
+	}
+.whitebox{
+		width:320px;
+		height:265px;
+		background-color:white;
+		cursor:pointer;
+		float:left;
+		margin-left:20px;
+		margin-top:50px;
+	}
+.pc{
+		width:300px;
+		height:245px;
+		/* background-color:#CCCC00; */
+		position:relative;
+		left:10px;
+		top:10px
+	}
+.whitebox:hover{
+		box-shadow:0px 0px 30px #DFDFDF;
+		color:blue;
+			}
+.v{
+		width:300px;
+		height:30px;
+		/* background-color:green; */
+		text-align:right;
+		color:#B0B0C8;
+		line-height:30px;
+		margin:0 auto;
+			}
+.picture{
+		width:300px;
+		height:80px;
+		/* background-color:gold; */
+		margin:0 auto;
+		text-align:center;
+			}
+.text{
+		width:300px;
+		/* background-color:#999933; */
+		font-size:20px;
+		margin:0 auto;
+		text-align:center;
+	}
+.date{
+		width:300px;
+		/* background-color:#669999; */
+		margin:0 auto;
+		text-align:center;
+		color:#B0B0C8;
+		margin-top:10px;
+	}
+.download1{
+		width:180px;
+		height:40px;
+		background-color:#28A9F3;
+		margin:0 auto;
+		font-size:14px;
+		line-height:45px;
+		text-align:center;
+		color:white;
+		left:70px;
+		margin-top:15px;
+	}
+.download1:hover{
+		background-color:#0090E2;
+	}
+.android{
+		width:300px;
+		height:245px;
+		/* background-color:#CCCC00; */
+		position:relative;
+		left:10px;
+		top:10px
+	}
+.mac{
+		width:300px;
+		height:245px;
+		/* background-color:#CCCC00; */
+		position:relative;
+		left:10px;
+		top:10px;
+	}
+.bg2{
+		width:100%;
+		background-color:#EEEFF0;
+		position:relative;
+	}
+.edition2{
+		width:1040px;
+		height:1050px;
+		/* background-color:#CC3399; */
+		margin:0 auto;
+	}
+.whitebox2{
+		width:320px;
+		height:150px;
+		background-color:white;
+		cursor:pointer;
+		float:left;
+		margin-left:20px;
+		margin-top:50px;
+	}
+.whitebox2:hover{
+		box-shadow:0px 0px 30px #DFDFDF;
+		color:blue;
+	}
+.tuijian{
+		width:300px;
+		height:110px;
+		/* background-color:#CCFF66; */
+		margin:0 auto;
+		margin-top:20px;
+	}
+.logos{
+		width:100px;
+		height:85px;
+		/* background-color:#FFFF66; */
+		position:absolute;
+		margin:0 auto;
+		margin-left:10px;
+		margin-top:10px;
+		text-align:center;
+		line-height:122px;
+	}
+.text2{
+		width:160px;
+		/* background-color:yellow; */
+		font-size:16px;
+		float:right;
+		margin-top:10px;
+	}
+.date2{
+		width:160px;
+		/* background-color:red; */
+		font-size:12px;
+		color:color:#B0B0C8;
+		float:right;
+		margin-top:10px;
+	}
+.download-icon{
+		width:90px;
+		height:30px;
+		background-color:#28A9F3;
+		float:left;
+		margin-left:140px;
+		font-size:12px;
+		line-height:30px;
+		text-align:center;
+		color:white;
+		margin-top:10px;
+	}
+	.download-icon:hover{
+		background-color:#0090E2;
+	}
+.v2{
+		width:70px;
+		/* background-color:#FF9933; */
+		float:right;
+		margin-top:19px;
+		text-align:center;
+	}
